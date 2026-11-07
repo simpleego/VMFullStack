@@ -1,5 +1,8 @@
+from pathlib import Path
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.routers import products
 
@@ -16,6 +19,11 @@ app.add_middleware(
 )
 
 app.include_router(products.router)
+
+# backend/products/images 폴더를 /products/images 주소로 공개한다
+# (main.py 기준으로 두 단계 위가 backend 폴더)
+IMAGE_DIR = Path(__file__).resolve().parent.parent / "products" / "images"
+app.mount("/products/images", StaticFiles(directory=IMAGE_DIR), name="product-images")
 
 
 @app.get("/")
