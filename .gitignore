@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# 환경변수 (비밀번호가 들어 있으므로 커밋 금지)
+.env

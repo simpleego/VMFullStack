@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" fill="#fff3f0"/>
+  <rect x="62" y="38" width="76" height="126" rx="12" fill="#c62828"/>
+  <rect x="68" y="30" width="64" height="12" rx="4" fill="#b0bec5"/>
+  <path d="M62 92 Q100 72 138 92 L138 124 Q100 104 62 124 Z" fill="#fff"/>
+  <text x="100" y="114" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#c62828">COLA</text>
+  <rect x="62" y="150" width="76" height="14" rx="6" fill="#8e1b1b"/>
+</svg>

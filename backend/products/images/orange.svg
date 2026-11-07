@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" fill="#fff6e5"/>
+  <path d="M64 56 L100 38 L136 56 V166 H64 Z" fill="#fb8c00"/>
+  <path d="M64 56 L100 74 L136 56 L100 38 Z" fill="#ffb74d"/>
+  <circle cx="100" cy="112" r="24" fill="#fff"/>
+  <circle cx="100" cy="112" r="18" fill="#ff9800"/>
+  <path d="M100 94 V130 M82 112 H118" stroke="#fff" stroke-width="2"/>
+  <text x="100" y="156" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#fff">ORANGE</text>
+</svg>

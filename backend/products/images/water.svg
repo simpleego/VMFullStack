@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" fill="#eaf6fd"/>
+  <rect x="88" y="20" width="24" height="14" rx="3" fill="#1976d2"/>
+  <path d="M90 34 H110 V58 Q134 74 134 100 V160 Q134 172 122 172 H78 Q66 172 66 160 V100 Q66 74 90 58 Z" fill="#bbdefb" stroke="#1976d2" stroke-width="3"/>
+  <path d="M66 120 Q83 110 100 120 T134 120 V160 Q134 172 122 172 H78 Q66 172 66 160 Z" fill="#64b5f6"/>
+  <text x="100" y="98" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#1976d2">WATER</text>
+</svg>
