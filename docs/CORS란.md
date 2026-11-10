@@ -1,3 +1,5 @@
+# CORS (Cross-Origin Resource Sharing, 교차 출처 리소스 공유)
+
 CORS (Cross-Origin Resource Sharing, 교차 출처 리소스 공유)는 웹 브라우저가 보안상의 이유로 다른 출처(Origin)의 리소스에 접근하는 것을 기본적으로 차단(동일 출처 정책, SOP)할 때, 예외적으로 안전한 교류를 허용해 주는 표준 메커니즘입니다.
 
 ---
