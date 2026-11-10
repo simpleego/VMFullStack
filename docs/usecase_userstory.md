@@ -28,7 +28,7 @@
 
 ---
 
-## CORS
+## CORS란?   [CORS](https://github.com/simpleego/VMFullStack/blob/master/docs/CORS%EB%9E%80.md)
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f03a6001-30db-48df-a33b-a2d913cb66d6" />
 
 
