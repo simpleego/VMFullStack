@@ -28,6 +28,10 @@
 
 ---
 
+## CORS
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f03a6001-30db-48df-a33b-a2d913cb66d6" />
+
+
 ### 1.3 전체 로드맵 유스케이스 (요구사항 정의서 기준, 참고)
 
 | 액터 | 유스케이스 | 상태 |
