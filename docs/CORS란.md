@@ -6,6 +6,9 @@ CORS (Cross-Origin Resource Sharing, 교차 출처 리소스 공유)는 웹 브�
 
 ## 1. 왜 CORS가 존재할까요? (동일 출처 정책, SOP)
 
+<img width="1671" height="941" alt="image" src="https://github.com/user-attachments/assets/782f0f2c-ec9f-42de-a166-cd8eaf79903f" />
+
+
 * **동일 출처(Same-Origin):** 프로토콜(HTTP/HTTPS), 도메인(domain.com), 포트(3000, 8080 등)가 모두 일치하는 경우를 뜻합니다.
 * **SOP (Same-Origin Policy):** 브라우저는 기본적으로 하나의 웹페이지에서 실행 중인 스크립트가 다른 출처의 리소스에 함부로 접근하지 못하도록 막습니다. 이를 통해 악성 사이트가 사용자의 쿠키나 세션을 이용해 다른 서비스(예: 은행 사이트)에서 정보를 탈취하는 것을 방지합니다.
 
@@ -22,8 +25,6 @@ CORS (Cross-Origin Resource Sharing, 교차 출처 리소스 공유)는 웹 브�
 * **주요 응답 헤더:**
 * `Access-Control-Allow-Origin`: 리소스 접근을 허용할 출처(도메인)를 지정합니다. (`*`로 설정하면 모든 곳 허용)
 * `Access-Control-Allow-Methods`: 허용할 HTTP 메서드(GET, POST 등)를 지정합니다.
-
-
 
 ---
 
